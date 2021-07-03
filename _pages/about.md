@@ -18,8 +18,8 @@ News
 
 Interests 
 ====
-* Machine Learning
-* Audio Captioning
+* Cross-Modal Machine Learning
+* Audio Processing
 
 Education
 ====
