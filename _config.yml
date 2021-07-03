@@ -14,7 +14,7 @@ description              : &description "Personal academic website for Xinhao Me
 url                      : https://xinhaomei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  "photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinhao Mei"
-  avatar           : "photo.png"
+  avatar           : "photo.jpg"
   bio              : "PhD student"
   location         : "University of Surrey, Guildford, UK"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xinhaomei.github.io"
+  github           : "xinhaomei"
   google_plus      :
   keybase          :
   instagram        :
