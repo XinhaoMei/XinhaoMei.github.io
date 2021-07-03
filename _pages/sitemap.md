@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: 
 title: "Sitemap"
 permalink:
 author_profile: true
