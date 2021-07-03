@@ -26,7 +26,7 @@ Interests
 Education
 ====
 * **PhD in Vision, Speech and Signal Processing**  
-  2021 - present 
+  2021 - present  
   University of Surrey, UK  
 * **MSc in Computer Vision, Robotics and Machine Learning**  
   2019 - 2020  
