@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Preprint Papers
-1. **X. Mei**, X. Liu, Q. Huang, M. D. Plumbley, and W. Wang, “Au-dio captioning transformer,” 2021. [(pdf)](/files/Audio_Captioning_Transformer.pdf)
+1. **X. Mei**, X. Liu, Q. Huang, M. D. Plumbley, and W. Wang, “Audio captioning transformer,” 2021. [(pdf)](/files/Audio_Captioning_Transformer.pdf)
 
 
 ### Technical Reports
