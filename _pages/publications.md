@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprint Papers
 1. **X. Mei**, X. Liu, Q. Huang, M. D. Plumbley, and W. Wang, “Audio captioning transformer”, 2021. [(pdf)](/files/Audio_Captioning_Transformer.pdf)
-2. X. Liu, Q. Huang, **X. Mei**, T. Ko, H. L. Tang, M. D. Plumbley,and W. Wang, “Cl4ac: A contrastive loss for audio captioning”, 2021. [(pdf)](/files/CL4AC-A_CONTRASTIVE_LOSS_FOR_AUDIO_CAPTIONING.pdf)
+2. X. Liu, Q. Huang, **X. Mei**, T. Ko, H. L. Tang, M. D. Plumbley, and W. Wang, “Cl4ac: A contrastive loss for audio captioning”, 2021. [(pdf)](/files/CL4AC-A_CONTRASTIVE_LOSS_FOR_AUDIO_CAPTIONING.pdf)
 
 
 ### Technical Reports
