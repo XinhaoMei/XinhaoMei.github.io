@@ -14,7 +14,7 @@ Xinhao Mei is a first year PhD student at [CVSSP](https://www.surrey.ac.uk/centr
 
 News
 ====
-* [07/2021] Achieved 3rd palce in DCASE Chanllenge 2021 Task 6 "Automated Audio Captioning". [(pdf)](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
+* [07/2021] Achieved 3rd palce in Task 6 of DCASE Chanllenge 2021 "Automated Audio Captioning". [(pdf)](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
 
 Interests 
 ====
