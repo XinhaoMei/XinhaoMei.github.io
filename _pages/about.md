@@ -32,3 +32,5 @@ Education
 * **B.Eng in Software Engineering**  
   2015 - 2019  
   Southwest Pertoleum University, China
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vZIRqZ8N_fO1ljFLBrWAMvmjAbSztN1pM8uZs8OiU8g&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
