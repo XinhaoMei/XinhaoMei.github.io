@@ -12,7 +12,7 @@ author_profile: true
 
 
 ### Preprint Papers
-1. **X. Mei**, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, “Diverse Audio Captioning via Adversarial Training,” *arXiv preprint arXiv:2110.06691*, 2021. [(arXiv)](https://arxiv.org/abs/2110.06691),  [(pdf)](ICASSP_Diverse_AC.pdf)
+1. **X. Mei**, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, “Diverse Audio Captioning via Adversarial Training,” *arXiv preprint arXiv:2110.06691*, 2021. [(arXiv)](https://arxiv.org/abs/2110.06691),  [(pdf)](/files/ICASSP_Diverse_AC.pdf)
 
 ### Technical Reports
 1. **X. Mei**, Q. Huang, X. Liu, G. Chen, J. Wu, Y. Wu, J. Zhao, S. Li, T. Ko, H. L. Tang, X. Shao, M. D. Plumbley, and W. Wang, “An encoder-decoder based audio captioning system with transfer and reinforcement learning for DCASE challenge 2021 task 6”, *DCASE2021 Challenge*, July 2021. [(pdf)](/files/2021_DCASE_Task6_audio_captioning.pdf)
