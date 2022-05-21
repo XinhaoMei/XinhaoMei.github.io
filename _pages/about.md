@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ====
-Xinhao Mei is a first year PhD student at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), [University of Surrey](www.surrey.ac.uk) under the supervision of [Prof. Wenwu Wang](http://personal.ee.surrey.ac.uk/Personal/W.Wang/), and [Dr. Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li). He obtained his Master's degree from [University of Surrey](www.surrey.ac.uk) in 2020, and Bachelor's degree from [Southwest Petroleum University](https://www.swpu.edu.cn/) in 2019.
+Xinhao Mei is a second year PhD student at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), [University of Surrey](www.surrey.ac.uk) under the supervision of [Prof. Wenwu Wang](http://personal.ee.surrey.ac.uk/Personal/W.Wang/), and [Dr. Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li). He obtained his Master's degree from [University of Surrey](www.surrey.ac.uk) in 2020, and Bachelor's degree from [Southwest Petroleum University](https://www.swpu.edu.cn/) in 2019.
 
 News
 ====
