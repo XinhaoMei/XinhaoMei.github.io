@@ -14,6 +14,7 @@ Xinhao Mei is a second year PhD student at [CVSSP](https://www.surrey.ac.uk/cent
 
 News
 ====
+* [06/2022] 2 papers got accepted by InteerSpeech 2022.
 * [01/2022] 1 paper got accepted by ICASSP 2022.
 * [07/2021] Achieved 3rd palce in Task 6 of DCASE Chanllenge 2021 "Automated Audio Captioning". [(pdf)](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
 
