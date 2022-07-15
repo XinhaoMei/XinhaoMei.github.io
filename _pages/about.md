@@ -14,9 +14,12 @@ Xinhao Mei is a second year PhD student at [CVSSP](https://www.surrey.ac.uk/cent
 
 News
 ====
+* [07/2022] Achieved 2nd palce in Task 5 of DCASE Challenge 2022 "Few-shot Bioacoustic Event Detection". [(pdf)](https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Haohe_85_5.pdf), [(code)](https://github.com/haoheliu/DCASE_2022_Task_5)
+* [07/2022] Achieved 2nd palce in Task 6b of DCASE Challenge 2022 "Language-based Audio Retrieval". [(pdf)](https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Mei_118_t6b.pdf), [(code)](https://github.com/XinhaoMei/audio-text_retrieval)
+* [07/2022] Achieved 3rd palce in Task 6a of DCASE Challenge 2022 "Automated Audio Captioning". [(pdf)](https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Mei_117_t6a.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
 * [06/2022] 2 papers got accepted by InterSpeech 2022.
 * [01/2022] 1 paper got accepted by ICASSP 2022.
-* [07/2021] Achieved 3rd palce in Task 6 of DCASE Chanllenge 2021 "Automated Audio Captioning". [(pdf)](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
+* [07/2021] Achieved 3rd palce in Task 6 of DCASE Challenge 2021 "Automated Audio Captioning". [(pdf)](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Mei_88_t6.pdf), [(code)](https://github.com/XinhaoMei/DCASE2021_task6_v2)
 
 Interests 
 ====
