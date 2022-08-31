@@ -15,7 +15,10 @@ Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022. [(arXiv)]
 
 
 ### Preprint Papers
+1. **X. Mei**, X. Liu, M. D. Plumbley, and W. Wang, "Automated Audio Captioning: an Overview of Recent Progress and New Challenges." arXiv preprint arXiv:2205.05949, 2022. [(arXiv)](https://arxiv.org/abs/2205.05949)
 1. X. Liu, **X. Mei**, Q. Huang, J. Sun, J. Zhao, H. Liu, M. D. Plumbley, V. Kılı c ̧ , and W. Wang, “Leveraging pre-trained bert for audio captioning,” arXiv preprint arXiv:2203.02838, 2022. [(arXiv)](https://arxiv.org/abs/2203.02838), [(pdf)](/files/ac_bert.pdf) 
 
 ### Technical Reports
-1. **X. Mei**, Q. Huang, X. Liu, G. Chen, J. Wu, Y. Wu, J. Zhao, S. Li, T. Ko, H. L. Tang, X. Shao, M. D. Plumbley, and W. Wang, “An encoder-decoder based audio captioning system with transfer and reinforcement learning for DCASE challenge 2021 task 6”, *DCASE2021 Challenge*, July 2021. [(pdf)](/files/2021_DCASE_Task6_audio_captioning.pdf)
+1. **X. Mei**, X. Liu, H. Liu, J. Sun, M. D. Plumbley, and W. Wang, "Automated Audio Captioning with Keywords Guidance", *DCASE2022 Challenge*, July 2022. [(pdf)](/files/DCASE2022_Mei_117_t6a.pdf)
+2. **X. Mei**, X. Liu, H. Liu, J. Sun, M. D. Plumbley, and W. Wang, "Language-Based Audio Retrieval with Pre-trained Models", *DCASE2022 Challenge*, July 2022. [(pdf)](/files/DCASE2022_Mei_118_t6b.pdf)
+3. **X. Mei**, Q. Huang, X. Liu, G. Chen, J. Wu, Y. Wu, J. Zhao, S. Li, T. Ko, H. L. Tang, X. Shao, M. D. Plumbley, and W. Wang, “An encoder-decoder based audio captioning system with transfer and reinforcement learning for DCASE challenge 2021 task 6”, *DCASE2021 Challenge*, July 2021. [(pdf)](/files/2021_DCASE_Task6_audio_captioning.pdf)
