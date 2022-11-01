@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Journal papers
-1. **X. Mei**, X. Liu, M. D. Plumbley, and W. Wang, "Automated Audio Captioning: an Overview of Recent Progress and New Challenges." *Journal on Audio, Speech, and Music Processing*, volume 26, 2022. [(pdf)](https://arxiv.org/abs/2205.05949](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-022-00259-2)
+1. **X. Mei**, X. Liu, M. D. Plumbley, and W. Wang, "Automated Audio Captioning: an Overview of Recent Progress and New Challenges." *Journal on Audio, Speech, and Music Processing*, volume 26, 2022. [(pdf)](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-022-00259-2)
 
 ### Conference papers
 1. **X. Mei**, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, “On Metric Learning for Audio-Text Cross-Modal Retrieval,” in *INTERSPEECH*, ISCA, 2022. [(arXiv)](https://arxiv.org/abs/2203.15537), [(pdf)](/files/Text_Audio_Retrieval_for_INTERSPEECH_2022.pdf) 
