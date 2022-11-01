@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Journal papers
+1. **X. Mei**, X. Liu, M. D. Plumbley, and W. Wang, "Automated Audio Captioning: an Overview of Recent Progress and New Challenges." in *Journal on Audio, Speech, and Music Processing*, volume 26, 2022. [(pdf)]([https://arxiv.org/abs/2205.05949](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-022-00259-2))
+
 ### Conference papers
 1. **X. Mei**, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, “On Metric Learning for Audio-Text Cross-Modal Retrieval,” in *INTERSPEECH*, ISCA, 2022. [(arXiv)](https://arxiv.org/abs/2203.15537), [(pdf)](/files/Text_Audio_Retrieval_for_INTERSPEECH_2022.pdf) 
 2. **X. Mei**, X. Liu, J. Sun, M. D. Plumbley, and W. Wang, “Diverse Audio Captioning via Adversarial Training,” in *IEEE International
@@ -15,7 +18,6 @@ Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022. [(arXiv)]
 
 
 ### Preprint Papers
-1. **X. Mei**, X. Liu, M. D. Plumbley, and W. Wang, "Automated Audio Captioning: an Overview of Recent Progress and New Challenges." arXiv preprint arXiv:2205.05949, 2022. [(arXiv)](https://arxiv.org/abs/2205.05949)
 1. X. Liu, **X. Mei**, Q. Huang, J. Sun, J. Zhao, H. Liu, M. D. Plumbley, V. Kılı c ̧ , and W. Wang, “Leveraging pre-trained bert for audio captioning,” arXiv preprint arXiv:2203.02838, 2022. [(arXiv)](https://arxiv.org/abs/2203.02838), [(pdf)](/files/ac_bert.pdf) 
 
 ### Technical Reports
