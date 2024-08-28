@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinhao Mei"
   avatar           : "photo.jpg"
-  bio              : "PhD student in CVSSP"
-  location         : "Guildford, UK"
+  bio              : "PhD"
+  location         : "Redmond, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=vGoCkeUAAAAJ"
-  email            : "x.mei@surrey.ac.uk"
+  email            : "meixinhao429@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
